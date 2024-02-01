@@ -1,0 +1,7 @@
+.vscode
+.idea
+
+.mypy_cache
+
+.env
+*.txt
